@@ -21,5 +21,6 @@
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"hero","order":1,"path":"sprites/hero/hero.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
   ],
 }
