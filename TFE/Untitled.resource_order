@@ -18,9 +18,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"wall_1","order":2,"path":"sprites/wall_1/wall_1.yy",},
+    {"name":"IQScore","order":3,"path":"objects/IQScore/IQScore.yy",},
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"hero","order":1,"path":"sprites/hero/hero.yy",},
-    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Hero","order":1,"path":"objects/Hero/Hero.yy",},
+    {"name":"IQScoreTabletSprite","order":3,"path":"sprites/IQScoreTabletSprite/IQScoreTabletSprite.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
   ],
 }
