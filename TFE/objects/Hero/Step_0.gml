@@ -1,6 +1,4 @@
-// Код для руху
-var cell_size = 100; // Розмір однієї клітинки (швидкість руху)
-
+var cell_size = 100;
 if keyboard_check_pressed(ord("W")) {
     // Рух вгору
     y -= cell_size;
@@ -20,6 +18,9 @@ if keyboard_check_pressed(ord("D")) {
     // Рух вправо
     x += cell_size;
 }
+
+
+
 
 
 
