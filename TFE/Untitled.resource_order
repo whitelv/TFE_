@@ -24,7 +24,9 @@
     {"name":"Sprite5","order":16,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"hero","order":1,"path":"sprites/hero/hero.yy",},
     {"name":"Hero","order":1,"path":"objects/Hero/Hero.yy",},
+    {"name":"rm_menu","order":2,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"IQScoreTabletSprite","order":3,"path":"sprites/IQScoreTabletSprite/IQScoreTabletSprite.yy",},
+    {"name":"Sprite7","order":4,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
   ],
 }
