@@ -1,24 +1,27 @@
-var cell_size = 100;
-if keyboard_check_pressed(ord("W")) {
-    // Рух вгору
-    y -= cell_size;
+right_key = keyboard_check(vk_right);
+left_key = keyboard_check(vk_left);
+down_key = keyboard_check(vk_down);
+up_key = keyboard_check(vk_up);
+
+xspeed = (right_key - left_key) * move_speed;
+yspeed = (down_key - up_key) * move_speed;
+
+
+
+if place_meeting(x + xspeed, y, obj_wall) == true
+{
+	xspeed = 0;
 }
 
-if keyboard_check_pressed(ord("S")) {
-    // Рух вниз
-    y += cell_size;
+if place_meeting(x, y + yspeed, obj_wall) == true
+{
+	yspeed = 0;
 }
 
-if keyboard_check_pressed(ord("A")) {
-    // Рух вліво
-    x -= cell_size;
-}
 
-if keyboard_check_pressed(ord("D")) {
-    // Рух вправо
-    x += cell_size;
-}
 
+x += xspeed;
+y += yspeed;
 
 
 
