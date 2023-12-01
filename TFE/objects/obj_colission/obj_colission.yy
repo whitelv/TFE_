@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite9",
-    "path": "sprites/Sprite9/Sprite9.yy",
+    "name": "outer_wall",
+    "path": "sprites/outer_wall/outer_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,
