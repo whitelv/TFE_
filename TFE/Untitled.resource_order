@@ -30,6 +30,7 @@
     {"name":"Kontrolarbeit","order":12,"path":"sprites/Kontrolarbeit/Kontrolarbeit.yy",},
     {"name":"Sprite5","order":16,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"hero","order":1,"path":"sprites/hero/hero.yy",},
+    {"name":"obj_button_quit","order":8,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"Hero","order":1,"path":"objects/Hero/Hero.yy",},
     {"name":"rm_menu","order":2,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"IQScoreTabletSprite","order":3,"path":"sprites/IQScoreTabletSprite/IQScoreTabletSprite.yy",},
@@ -43,5 +44,6 @@
     {"name":"chocolate","order":8,"path":"sprites/chocolate/chocolate.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"laboratoric_work","order":11,"path":"sprites/laboratoric_work/laboratoric_work.yy",},
+    {"name":"obj_button_help","order":9,"path":"objects/obj_button_help/obj_button_help.yy",},
   ],
 }
