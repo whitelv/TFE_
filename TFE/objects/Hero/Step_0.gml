@@ -6,8 +6,6 @@ up_key = keyboard_check(vk_up);
 xspeed = (right_key - left_key) * move_speed;
 yspeed = (down_key - up_key) * move_speed;
 
-
-
 if place_meeting(x + xspeed, y, obj_wall) == true
 {
 	xspeed = 0;
