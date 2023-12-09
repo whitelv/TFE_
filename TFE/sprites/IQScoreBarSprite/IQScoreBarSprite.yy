@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite10",
-  "bbox_bottom": 0,
+  "name": "IQScoreBarSprite",
+  "bbox_bottom": 23,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 215,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c183189c-deb7-4b3a-a3c3-24c5db8a627d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"849ca464-cf96-49f1-9ba3-c15c93341d0b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 24,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"001abd6b-ae10-43d2-b82f-3965237f1e62","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"39b83e37-2423-42f8-8d8f-9dc54c428348","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Untitled",
-    "path": "Untitled.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite10",
+    "name": "IQScoreBarSprite",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c183189c-deb7-4b3a-a3c3-24c5db8a627d","path":"sprites/Sprite10/Sprite10.yy",},},},"Disabled":false,"id":"2e01e808-5353-4613-9de5-3fad37518408","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"849ca464-cf96-49f1-9ba3-c15c93341d0b","path":"sprites/IQScoreBarSprite/IQScoreBarSprite.yy",},},},"Disabled":false,"id":"a7b6823c-0096-441d-b68c-fee650c0dad4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 216,
 }
