@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wall",
-  "eventList": [],
+  "name": "obj_IQScore",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_wall_1",
-    "path": "sprites/sp_wall_1/sp_wall_1.yy",
+    "name": "sp_IQScoreTabletSprite",
+    "path": "sprites/sp_IQScoreTabletSprite/sp_IQScoreTabletSprite.yy",
   },
   "spriteMaskId": null,
   "visible": true,
