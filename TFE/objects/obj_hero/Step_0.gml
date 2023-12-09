@@ -3,35 +3,35 @@ left_key = keyboard_check(vk_left);
 down_key = keyboard_check(vk_down);
 up_key = keyboard_check(vk_up);
 
-xspeed = (right_key - left_key) * move_speed;
-yspeed = (down_key - up_key) * move_speed;
+x_speed = (right_key - left_key) * move_speed;
+y_speed = (down_key - up_key) * move_speed;
 
 
 
-if place_meeting(x + xspeed, y, obj_wall) == true
+if place_meeting(x + x_speed, y, obj_wall) == true
 {
-	xspeed = 0;
+	x_speed = 0;
 }
 
-if place_meeting(x, y + yspeed, obj_wall) == true
+if place_meeting(x, y + y_speed, obj_wall) == true
 {
-	yspeed = 0;
+	y_speed = 0;
 }
 
-if place_meeting(x + xspeed, y, obj_colission) == true
+if place_meeting(x + x_speed, y, obj_colission) == true
 {
-	xspeed = 0;
+	x_speed = 0;
 }
 
-if place_meeting(x, y + yspeed, obj_colission) == true
+if place_meeting(x, y + y_speed, obj_colission) == true
 {
-	yspeed = 0;
+	y_speed = 0;
 }
 
 
 
-x += xspeed;
-y += yspeed;
+x += x_speed;
+y += y_speed;
 
 
 

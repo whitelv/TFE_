@@ -1,5 +1,5 @@
-xspeed = 0;
-yspeed = 0;
+x_speed = 0;
+y_speed = 0;
 
 sqr_size =  100;
 
