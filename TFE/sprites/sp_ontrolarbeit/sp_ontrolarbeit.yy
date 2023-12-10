@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_ontrolarbeit",
-  "bbox_bottom": 14,
-  "bbox_left": 0,
-  "bbox_right": 14,
-  "bbox_top": 0,
+  "bbox_bottom": 78,
+  "bbox_left": 21,
+  "bbox_right": 53,
+  "bbox_top": 42,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"24ccc3e6-2e31-46cc-b19e-7b03805cc7ec",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b6c70169-74b8-487f-bf52-dfc7b9a3df21",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 15,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c6f6413b-8519-4c95-b2ec-29db57f0b3dc","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2e77c45a-cf8b-44f0-9404-8f73bec53c3e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"24ccc3e6-2e31-46cc-b19e-7b03805cc7ec","path":"sprites/sp_ontrolarbeit/sp_ontrolarbeit.yy",},},},"Disabled":false,"id":"c6d4a9b2-25f5-4841-b3ed-32e1fa88e7a5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b6c70169-74b8-487f-bf52-dfc7b9a3df21","path":"sprites/sp_ontrolarbeit/sp_ontrolarbeit.yy",},},},"Disabled":false,"id":"98fda4e1-d2e3-4ff7-8d14-c2cf4e158b2d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 15,
+  "width": 100,
 }

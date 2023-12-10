@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_laboratoric_work",
-  "bbox_bottom": 14,
-  "bbox_left": 0,
-  "bbox_right": 14,
-  "bbox_top": 0,
+  "bbox_bottom": 65,
+  "bbox_left": 23,
+  "bbox_right": 54,
+  "bbox_top": 25,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7307f2e1-3a1d-480b-9319-8421cd6b8cb3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"36c7c099-bcd2-451e-920c-373af88a7a02",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 15,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f697c517-b0ad-486a-9865-b856b752051f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"83e24164-6316-4db3-b610-fd406c74c4b8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7307f2e1-3a1d-480b-9319-8421cd6b8cb3","path":"sprites/sp_laboratoric_work/sp_laboratoric_work.yy",},},},"Disabled":false,"id":"988ed8d2-644d-4a8f-9ab2-7ad7ff88e4a8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"36c7c099-bcd2-451e-920c-373af88a7a02","path":"sprites/sp_laboratoric_work/sp_laboratoric_work.yy",},},},"Disabled":false,"id":"85c79725-0267-4864-81b8-88cba9e51fc2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 15,
+  "width": 100,
 }
