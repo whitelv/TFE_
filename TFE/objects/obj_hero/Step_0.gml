@@ -25,6 +25,7 @@ x+=xspeed;
 y+=yspeed;
 }
 
+
 if(IQscore<=0)
 {
  show_message("You lost");
