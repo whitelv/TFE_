@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_hero",
-  "bbox_bottom": 14,
-  "bbox_left": 0,
-  "bbox_right": 14,
-  "bbox_top": 0,
+  "bbox_bottom": 66,
+  "bbox_left": 5,
+  "bbox_right": 49,
+  "bbox_top": 5,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ac36cd39-fde8-4bb0-aad8-26602cad32ab",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f7f90f92-9ef3-49db-a848-bf3197d23771",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 15,
+  "height": 73,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9b1fd639-baa1-4bd1-9138-1558f702f068","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cb43f62c-5491-4288-8972-50de8590e9a3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ac36cd39-fde8-4bb0-aad8-26602cad32ab","path":"sprites/sp_hero/sp_hero.yy",},},},"Disabled":false,"id":"dd507022-edbc-4943-b5a2-2202f39e8baf","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f7f90f92-9ef3-49db-a848-bf3197d23771","path":"sprites/sp_hero/sp_hero.yy",},},},"Disabled":false,"id":"1d006d80-3ae0-4bce-bd12-d62deaddb76e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 15,
+  "width": 61,
 }
