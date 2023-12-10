@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "floor_1",
-    "path": "sprites/floor_1/floor_1.yy",
+    "name": "sp_floor_1",
+    "path": "sprites/sp_floor_1/sp_floor_1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
