@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"sp_button","path":"sprites/sp_button/sp_button.yy",},},
@@ -48,7 +48,9 @@
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"obj_old_desk","path":"objects/obj_old_desk/obj_old_desk.yy",},},
     {"id":{"name":"obj_metodical","path":"objects/obj_metodical/obj_metodical.yy",},},
+    {"id":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},},
     {"id":{"name":"sp_IQScoreBarSprite","path":"sprites/sp_IQScoreBarSprite/sp_IQScoreBarSprite.yy",},},
+    {"id":{"name":"sp_cat","path":"sprites/sp_cat/sp_cat.yy",},},
     {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"sp_practic_work","path":"sprites/sp_practic_work/sp_practic_work.yy",},},
@@ -62,6 +64,8 @@
     {"id":{"name":"sp_hammer","path":"sprites/sp_hammer/sp_hammer.yy",},},
     {"id":{"name":"sp_chocolate","path":"sprites/sp_chocolate/sp_chocolate.yy",},},
     {"id":{"name":"sp_old_desk","path":"sprites/sp_old_desk/sp_old_desk.yy",},},
+    {"id":{"name":"sp_calculated","path":"sprites/sp_calculated/sp_calculated.yy",},},
+    {"id":{"name":"obj_calculated","path":"objects/obj_calculated/obj_calculated.yy",},},
     {"id":{"name":"obj_lab","path":"objects/obj_lab/obj_lab.yy",},},
     {"id":{"name":"obj_chocolate","path":"objects/obj_chocolate/obj_chocolate.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},

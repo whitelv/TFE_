@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_chocolate",
+  "name": "obj_cat",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_chocolate",
-    "path": "sprites/sp_chocolate/sp_chocolate.yy",
+    "name": "sp_cat",
+    "path": "sprites/sp_cat/sp_cat.yy",
   },
   "spriteMaskId": null,
   "visible": true,
