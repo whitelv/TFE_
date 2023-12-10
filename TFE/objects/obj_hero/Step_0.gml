@@ -16,3 +16,8 @@ if place_meeting(x + xspeed, y + yspeed, obj_wall) == true
 x+=xspeed;
 y+=yspeed;
 }
+
+if(right_key||left_key||up_key||down_key)
+{
+	IQscore-= 10;
+}

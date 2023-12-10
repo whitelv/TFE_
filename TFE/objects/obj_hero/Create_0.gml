@@ -7,8 +7,8 @@ move_speed = sqr_size;
 
 HealthBarWidth = 216;
 HealthBarHeight = 24;
-IQscore = 120;
-IQscoreMax = IQscore;
+IQscoreMax = 120;
+IQscore=IQscoreMax;
 
 
 
