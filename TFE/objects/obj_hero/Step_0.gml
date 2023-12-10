@@ -8,7 +8,8 @@ yspeed = (down_key - up_key) * move_speed;
 
 if place_meeting(x + xspeed, y + yspeed, obj_floor)
 {
-if place_meeting(x + xspeed, y + yspeed, obj_wall) == true
+if place_meeting(x + xspeed, y + yspeed, obj_wall) == true ||
+(place_meeting(x + xspeed, y + yspeed, obj_old_desk) == true&&hammers_available<=0) 
 {
 	xspeed = 0;
 	yspeed = 0;
@@ -17,7 +18,7 @@ else
 {
 	if(up_key||right_key||down_key||left_key)
 	{
-		IQscore-=5;
+		IQscore-=3;
 	}
 }
 x+=xspeed;

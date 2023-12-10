@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_old_desk",
+  "name": "obj_hammer",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_old_desk",
-    "path": "sprites/sp_old_desk/sp_old_desk.yy",
+    "name": "sp_hammer",
+    "path": "sprites/sp_hammer/sp_hammer.yy",
   },
   "spriteMaskId": null,
   "visible": true,

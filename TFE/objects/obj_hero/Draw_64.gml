@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
 IQScale=(IQscore/IQscoreMax);
 if((IQScale)>1)
 {
