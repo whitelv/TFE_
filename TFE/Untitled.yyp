@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"sp_button","path":"sprites/sp_button/sp_button.yy",},},
@@ -44,6 +44,7 @@
     {"id":{"name":"sp_ontrolarbeit","path":"sprites/sp_ontrolarbeit/sp_ontrolarbeit.yy",},},
     {"id":{"name":"sp_hero","path":"sprites/sp_hero/sp_hero.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
+    {"id":{"name":"obj_old_desk","path":"objects/obj_old_desk/obj_old_desk.yy",},},
     {"id":{"name":"sp_IQScoreBarSprite","path":"sprites/sp_IQScoreBarSprite/sp_IQScoreBarSprite.yy",},},
     {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
@@ -56,6 +57,7 @@
     {"id":{"name":"obj_colission","path":"objects/obj_colission/obj_colission.yy",},},
     {"id":{"name":"sp_outer_wall","path":"sprites/sp_outer_wall/sp_outer_wall.yy",},},
     {"id":{"name":"sp_chocolate","path":"sprites/sp_chocolate/sp_chocolate.yy",},},
+    {"id":{"name":"sp_old_desk","path":"sprites/sp_old_desk/sp_old_desk.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"sp_laboratoric_work","path":"sprites/sp_laboratoric_work/sp_laboratoric_work.yy",},},
     {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},},
