@@ -5,11 +5,6 @@ if((IQScale)>1)
 {
  IQScale = 1;
 }
-if(IQscore<=0)
-{
- show_message("You lost");
- game_restart();
-}
 
-draw_sprite(sp_IQScoreSprite,0,room_width,0);
-draw_sprite_stretched(sp_IQScoreBarSprite,0,room_width+8,64,IQScale*HealthBarWidth,HealthBarHeight);
+draw_sprite(sp_IQScoreSprite,0,room_width-300,0);
+draw_sprite_stretched(sp_IQScoreBarSprite,0,room_width-292,64,IQScale*HealthBarWidth,HealthBarHeight);

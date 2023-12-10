@@ -13,11 +13,19 @@ if place_meeting(x + xspeed, y + yspeed, obj_wall) == true
 	xspeed = 0;
 	yspeed = 0;
 }
+else 
+{
+	if(up_key||right_key||down_key||left_key)
+	{
+		IQscore-=5;
+	}
+}
 x+=xspeed;
 y+=yspeed;
 }
 
-if(right_key||left_key||up_key||down_key)
+if(IQscore<=0)
 {
-	IQscore-= 10;
+ show_message("You lost");
+ game_restart();
 }

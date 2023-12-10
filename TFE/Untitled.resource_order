@@ -39,7 +39,6 @@
     {"name":"Sprite16","order":16,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"obj_button_play","order":5,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_kontrolarbeit","order":13,"path":"objects/obj_kontrolarbeit/obj_kontrolarbeit.yy",},
-    {"name":"obj_colission","order":6,"path":"objects/obj_colission/obj_colission.yy",},
     {"name":"sp_outer_wall","order":6,"path":"sprites/sp_outer_wall/sp_outer_wall.yy",},
     {"name":"sp_chocolate","order":8,"path":"sprites/sp_chocolate/sp_chocolate.yy",},
     {"name":"sp_old_desk","order":16,"path":"sprites/sp_old_desk/sp_old_desk.yy",},
