@@ -9,5 +9,5 @@ if(IQscore<0)
 {
  IQscore = 0;
 }
-draw_sprite(sp_IQScoreSprite,0,1000,10);
-draw_sprite_stretched(sp_IQScoreBarSprite,0,1008,74,IQScale*HealthBarWidth,HealthBarHeight);
+draw_sprite(sp_IQScoreSprite,0,775,73);
+draw_sprite_stretched(sp_IQScoreBarSprite,0,783,137,IQScale*HealthBarWidth,HealthBarHeight);
