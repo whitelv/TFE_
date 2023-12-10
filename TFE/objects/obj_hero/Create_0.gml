@@ -3,7 +3,7 @@ yspeed = 0;
 
 sqr_size =  100;
 
-move_speed = 1;
+move_speed = sqr_size;
 
 HealthBarWidth = 216;
 HealthBarHeight = 24;
