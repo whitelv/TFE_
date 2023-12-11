@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"sp_button","path":"sprites/sp_button/sp_button.yy",},},
+    {"id":{"name":"sp_end_level1","path":"sprites/sp_end_level1/sp_end_level1.yy",},},
     {"id":{"name":"sp_wall_1","path":"sprites/sp_wall_1/sp_wall_1.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_hammer","path":"objects/obj_hammer/obj_hammer.yy",},},
@@ -59,6 +60,7 @@
     {"id":{"name":"sp_floor_1","path":"sprites/sp_floor_1/sp_floor_1.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"sp_IQScoreSprite","path":"sprites/sp_IQScoreSprite/sp_IQScoreSprite.yy",},},
+    {"id":{"name":"obj_end_level1","path":"objects/obj_end_level1/obj_end_level1.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_kontrolarbeit","path":"objects/obj_kontrolarbeit/obj_kontrolarbeit.yy",},},
     {"id":{"name":"sp_outer_wall","path":"sprites/sp_outer_wall/sp_outer_wall.yy",},},
