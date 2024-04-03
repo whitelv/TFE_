@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_end_level1",
+  "name": "obj_end_lvl_2",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
