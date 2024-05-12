@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_end_level1",
-    "path": "sprites/sp_end_level1/sp_end_level1.yy",
+    "name": "sp_end",
+    "path": "sprites/sp_end/sp_end.yy",
   },
   "spriteMaskId": null,
   "visible": true,
