@@ -1,8 +1,8 @@
 
-if(IQscore >=130)
+if(IQscore >=10)
 {
-	show_message("You won!");
-	game_restart();//тут має бути перехід на наступний рівень
+	instance_create_depth(0,0,-9999, obj_fade);
+	room_goto(level4)
 }
 else
 {

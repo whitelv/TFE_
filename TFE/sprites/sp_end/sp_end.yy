@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_end",
-  "bbox_bottom": 173,
-  "bbox_left": 66,
-  "bbox_right": 137,
-  "bbox_top": 102,
+  "bbox_bottom": 99,
+  "bbox_left": 0,
+  "bbox_right": 99,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee967be9-21b8-4a83-a8b3-53996bd31bae",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"08ecf412-19e9-42e2-9e2f-69d4d02f00f8",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 200,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"34f73b79-89c5-4adc-9721-f9f681c95045","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"90862c6b-f796-4204-9c66-f90288bb6dc3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
@@ -77,7 +77,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ee967be9-21b8-4a83-a8b3-53996bd31bae","path":"sprites/sp_end/sp_end.yy",},},},"Disabled":false,"id":"46319493-0264-4e5c-a401-24dee35e3463","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"08ecf412-19e9-42e2-9e2f-69d4d02f00f8","path":"sprites/sp_end/sp_end.yy",},},},"Disabled":false,"id":"6b0fb0f4-d7f4-485d-b7df-80d97b51a580","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 200,
+  "width": 100,
 }

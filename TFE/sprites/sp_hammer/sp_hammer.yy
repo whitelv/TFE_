@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_hammer",
-  "bbox_bottom": 151,
-  "bbox_left": 0,
-  "bbox_right": 119,
-  "bbox_top": 0,
+  "bbox_bottom": 66,
+  "bbox_left": 31,
+  "bbox_right": 64,
+  "bbox_top": 27,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"71f85728-7ea2-4900-92ea-a7a282781101",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c4b4e17e-1ac4-43a7-97c7-7ee1fc0474b0",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 152,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6f2bf4be-0f27-4e8c-91a5-0b62cdca845f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6080a1fc-9f18-44d9-8687-ad77139df4d5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"71f85728-7ea2-4900-92ea-a7a282781101","path":"sprites/sp_hammer/sp_hammer.yy",},},},"Disabled":false,"id":"2246c73c-ae2b-4f9f-84af-bb952b0ce747","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c4b4e17e-1ac4-43a7-97c7-7ee1fc0474b0","path":"sprites/sp_hammer/sp_hammer.yy",},},},"Disabled":false,"id":"0aafad4e-bb5b-4cdc-bd14-ae0bfb668300","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 120,
+  "width": 100,
 }

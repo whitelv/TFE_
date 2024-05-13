@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_metodical_work",
-  "bbox_bottom": 77,
-  "bbox_left": 21,
-  "bbox_right": 67,
-  "bbox_top": 36,
+  "bbox_bottom": 49,
+  "bbox_left": 0,
+  "bbox_right": 49,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8b59a238-919a-4e8d-9f7d-5e44ee28e9b0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d3fc7f67-5c92-4807-8268-ebfc014e2014",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 100,
+  "height": 50,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8e367c75-6b73-45ac-9e46-3dfc359601d7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9d745480-8e1f-4d08-b8a9-d3f5efc28040","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8b59a238-919a-4e8d-9f7d-5e44ee28e9b0","path":"sprites/sp_metodical_work/sp_metodical_work.yy",},},},"Disabled":false,"id":"ccddf311-b064-4b86-ae4e-b9abca3670b2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d3fc7f67-5c92-4807-8268-ebfc014e2014","path":"sprites/sp_metodical_work/sp_metodical_work.yy",},},},"Disabled":false,"id":"166b1188-65a7-4399-9cfb-90f4d9fc0c87","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 100,
+  "width": 50,
 }

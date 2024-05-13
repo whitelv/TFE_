@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_chocolate",
-  "bbox_bottom": 83,
-  "bbox_left": 29,
-  "bbox_right": 77,
-  "bbox_top": 29,
+  "bbox_bottom": 49,
+  "bbox_left": 0,
+  "bbox_right": 49,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a00918f5-333c-467f-8e9f-99ab000259fb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"33dadea2-1d0f-494a-8d44-cb8f0101c972",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 100,
+  "height": 50,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b5c7e29c-29f9-4821-9c46-375fe8e88f89","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fe0b84ad-506a-45d8-955d-7cdceb7440ba","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a00918f5-333c-467f-8e9f-99ab000259fb","path":"sprites/sp_chocolate/sp_chocolate.yy",},},},"Disabled":false,"id":"a899f314-6778-44dd-9340-2364b6f54f47","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"33dadea2-1d0f-494a-8d44-cb8f0101c972","path":"sprites/sp_chocolate/sp_chocolate.yy",},},},"Disabled":false,"id":"d6071d43-a28e-4e5b-beb0-4b09ac7f6910","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 100,
+  "width": 50,
 }

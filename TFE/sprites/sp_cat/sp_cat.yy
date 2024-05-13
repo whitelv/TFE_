@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_cat",
-  "bbox_bottom": 86,
+  "bbox_bottom": 49,
   "bbox_left": 0,
-  "bbox_right": 99,
+  "bbox_right": 49,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c766678a-6047-43fd-9bc7-7b3e6206869f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1fc6c5e2-4bab-4fce-88f0-7c07ea39c876",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 87,
+  "height": 50,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5961c171-d185-491c-83b8-cfb619dc59a1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"25866bb5-3241-4556-9df0-c31483e11d17","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c766678a-6047-43fd-9bc7-7b3e6206869f","path":"sprites/sp_cat/sp_cat.yy",},},},"Disabled":false,"id":"f8245fde-0115-4be2-b6fd-4ec5d54d57cb","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1fc6c5e2-4bab-4fce-88f0-7c07ea39c876","path":"sprites/sp_cat/sp_cat.yy",},},},"Disabled":false,"id":"8d0cb021-7670-4088-b1fe-ceb51fe555e4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 100,
+  "width": 50,
 }

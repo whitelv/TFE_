@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sp_practic_work",
-  "bbox_bottom": 73,
-  "bbox_left": 27,
-  "bbox_right": 71,
-  "bbox_top": 26,
+  "bbox_bottom": 49,
+  "bbox_left": 0,
+  "bbox_right": 49,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce359792-69a0-4b54-b7a9-412e1268dc14",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b8e0406e-0334-4c92-9f72-104e3aee2f79",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 100,
+  "height": 50,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"778e871c-171c-4bb6-8cba-fd2f5f0edd7d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"80e2b266-104e-4d04-b7f9-be07ae2ffc19","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ce359792-69a0-4b54-b7a9-412e1268dc14","path":"sprites/sp_practic_work/sp_practic_work.yy",},},},"Disabled":false,"id":"3b478261-b4d2-4ab0-96d0-4c35c44e160d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b8e0406e-0334-4c92-9f72-104e3aee2f79","path":"sprites/sp_practic_work/sp_practic_work.yy",},},},"Disabled":false,"id":"667d2d04-0a7f-44aa-aa3f-30e92c8e29b0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 100,
+  "width": 50,
 }

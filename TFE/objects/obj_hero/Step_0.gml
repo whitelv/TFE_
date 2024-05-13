@@ -28,6 +28,6 @@ y+=yspeed;
 
 if(IQscore<=0)
 {
- show_message("You lost");
- game_restart();
+ instance_create_depth(0,0,-9999, obj_fade);
+	room_goto(rm_lost)
 }
