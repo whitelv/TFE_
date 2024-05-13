@@ -31,13 +31,13 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"sp_button","path":"sprites/sp_button/sp_button.yy",},},
-    {"id":{"name":"obj_lost","path":"objects/obj_lost/obj_lost.yy",},},
     {"id":{"name":"sp_end","path":"sprites/sp_end/sp_end.yy",},},
     {"id":{"name":"sp_wall_1","path":"sprites/sp_wall_1/sp_wall_1.yy",},},
+    {"id":{"name":"sp_won","path":"sprites/sp_won/sp_won.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_hammer","path":"objects/obj_hammer/obj_hammer.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},

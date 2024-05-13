@@ -18,9 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sp_button","order":4,"path":"sprites/sp_button/sp_button.yy",},
-    {"name":"obj_lost","order":28,"path":"objects/obj_lost/obj_lost.yy",},
     {"name":"sp_end","order":18,"path":"sprites/sp_end/sp_end.yy",},
     {"name":"sp_wall_1","order":2,"path":"sprites/sp_wall_1/sp_wall_1.yy",},
+    {"name":"sp_won","order":25,"path":"sprites/sp_won/sp_won.yy",},
     {"name":"obj_button","order":4,"path":"objects/obj_button/obj_button.yy",},
     {"name":"obj_hammer","order":16,"path":"objects/obj_hammer/obj_hammer.yy",},
     {"name":"fnt_menu","order":1,"path":"fonts/fnt_menu/fnt_menu.yy",},
