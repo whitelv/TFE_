@@ -12,8 +12,10 @@ HealthBarHeight = 11;
 IQscoreMax = 120;
 IQscore=IQscoreMax;
 
-audio_play_sound(background_music, 0, true);
-
+if(!audio_is_playing(background_music))
+{
+	audio_play_sound(background_music, 0, true);
+}
 
 
 

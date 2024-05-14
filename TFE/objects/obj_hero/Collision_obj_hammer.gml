@@ -4,4 +4,4 @@
 ++hammers_available;
 
 
-
+audio_play_sound(pop_high, 0, false);

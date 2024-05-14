@@ -19,6 +19,10 @@ else
 	if(up_key||right_key||down_key||left_key)
 	{
 		IQscore-=3;
+		//if(!audio_is_playing(shoiu))
+		{
+			audio_play_sound(shoiu, 0, false);	
+		}
 	}
 }
 x+=xspeed;

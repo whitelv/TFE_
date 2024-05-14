@@ -3,7 +3,7 @@
 IQscore += 20;
 
 
-
+audio_play_sound(pop_high, 0, false);
 
 
 

@@ -3,9 +3,7 @@
 
 IQscore -= 5;
 
-
-
-
+audio_play_sound(pop_low, 0, false);	
 
 
 

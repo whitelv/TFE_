@@ -4,7 +4,7 @@
 IQscore -= 10;
 
 
-
+audio_play_sound(pop_low, 0, false);	
 
 
 
