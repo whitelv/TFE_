@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"sp_button","path":"sprites/sp_button/sp_button.yy",},},
@@ -80,6 +80,7 @@
     {"id":{"name":"level2","path":"rooms/level2/level2.yy",},},
     {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
+    {"id":{"name":"background_music","path":"sounds/background_music/background_music.yy",},},
     {"id":{"name":"fnt_levels","path":"fonts/fnt_levels/fnt_levels.yy",},},
     {"id":{"name":"sp_button_level_102","path":"sprites/sp_button_level_102/sp_button_level_102.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
