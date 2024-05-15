@@ -33,7 +33,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"sp_button","path":"sprites/sp_button/sp_button.yy",},},
@@ -63,10 +63,13 @@
     {"id":{"name":"obj_old_desk","path":"objects/obj_old_desk/obj_old_desk.yy",},},
     {"id":{"name":"sp_paholok","path":"sprites/sp_paholok/sp_paholok.yy",},},
     {"id":{"name":"rm_levels","path":"rooms/rm_levels/rm_levels.yy",},},
+    {"id":{"name":"Sprite41","path":"sprites/Sprite41/Sprite41.yy",},},
     {"id":{"name":"obj_metodical","path":"objects/obj_metodical/obj_metodical.yy",},},
     {"id":{"name":"obj_btn_level_101","path":"objects/obj_btn_level_101/obj_btn_level_101.yy",},},
+    {"id":{"name":"sp_level3end","path":"sprites/sp_level3end/sp_level3end.yy",},},
     {"id":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},},
     {"id":{"name":"oDialogParent","path":"objects/oDialogParent/oDialogParent.yy",},},
+    {"id":{"name":"sp_level2end","path":"sprites/sp_level2end/sp_level2end.yy",},},
     {"id":{"name":"sp_button_level_103","path":"sprites/sp_button_level_103/sp_button_level_103.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
     {"id":{"name":"sp_button_level_104","path":"sprites/sp_button_level_104/sp_button_level_104.yy",},},

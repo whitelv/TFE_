@@ -12,5 +12,6 @@
 // Inherit the parent event
 event_inherited();
 
-dialog.add(sp_hero, "Oh no, where am I? My first exam? I'm not ready yet");
-dialog.add(sp_ment, "Stop, young man,  don't  be  afraid,  you will do it!");
+dialog.add(sp_hero, "It was easy...");
+dialog.add(sp_ment, "Well, my dear, show me what you can do!");
+dialog.add(sp_hero, "...");
